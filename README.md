@@ -1,7 +1,7 @@
 # Faster-Snake-Game
 A faster-paced version of the classic snake game with unique features added to provide users with a fresh experience that requires fast thinking and dynamic gameplay.
 
-To start the game, run the main.py file.
+To start the game, run the main.py file. Use the WASD keys to turn the snake. 
 
 # Unique Features:
 * Additional food is created every 10 seconds, meaning there can be several food objects at once
