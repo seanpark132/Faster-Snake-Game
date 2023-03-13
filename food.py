@@ -17,8 +17,8 @@ class Food:
         food.penup()
 
         food.die_time = game_time + 12 - stage
-        possible_x_coords = list(range(-280, 300, 20))
-        possible_y_coords = list(range(-280, 300, 20))
+        possible_x_coords = list(range(-280, 280, 20))
+        possible_y_coords = list(range(-280, 280, 20))
 
         try:
             for seg in snake_segments:
